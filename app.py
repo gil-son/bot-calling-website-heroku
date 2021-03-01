@@ -10,8 +10,8 @@ navegador.get(url)
 
 '''
     - Intervalos de 30 em 30 min
-    - 7h até 0h
-    - Temos 17h → 34 ciclos → +1 = 35
+    - O horário fica a seu critério, é interessante encerrar até 0h
+    - Quantidade de ciclo = inicio + ciclo
     - Monitoramento
     - Horário Limite 
 '''
