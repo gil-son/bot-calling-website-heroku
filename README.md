@@ -21,6 +21,7 @@
 
 <p>Vídeo: https://www.youtube.com/watch?v=HeP0Nn2c5s4</p>
 <br/>
+
 ### Instalação:
 
 <p>Python e sua biblioteca Selenium</p>
@@ -29,7 +30,9 @@
 ### Driver:
 <p>Chromedriver compatível com a versão do Google Chrome</p>
 <p>É um executável que permite utilizar o bot no Google Chrome</p>
+
 <br/>
+
 ```
 Editor(es) de texto: VS Code, Sublime, Notepad++, Brackets e etc...
 ```
