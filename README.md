@@ -2,34 +2,45 @@
 
 
 
-# Início
+# Introduction
 
-<p>A versão gratuita do site da Heroku deixa o site desativado após um período de 30 minutos sem uso </p>
-<p>O que pode ser um problema se alguém quiser visitar o site.</p>
+<p>The free version of the Heroku website leaves the website disabled after a 30 minute period of non-use </p>
+<p>Which can be a problem if someone wants to visit the site.</p>
 <br/>
 
-### Pré-requisitos
+### Prerequisites
 
 
-<p>Entender o problema</p>
-<p>Entender Selenium</p>
-<p>Fazer as instalações</p>
-<p>Lógica básica de programação</p>
+<ul>
+  <p>Understanding the problem</p>
+  <p>Understanding Selenium</p>
+  <p>Perform the installations</p>
+  <p>Basic programming logic</p>
+</ul>
+
+
 <br/>
-<p>ou</p>
+<p>or</p>
 <br/>
 
-<p>Vídeo: https://www.youtube.com/watch?v=HeP0Nn2c5s4</p>
+<p>Video: https://www.youtube.com/watch?v=HeP0Nn2c5s4</p>
 <br/>
 
-### Instalação:
+### Installation:
 
-<p>Python e sua biblioteca Selenium</p>
+<ul>
+  <p>Python</p>
+  <p>Selenium Library</p>
+</ul>
+
 <br/>
 
 ### Driver:
-<p>Chromedriver compatível com a versão do Google Chrome</p>
-<p>É um executável que permite utilizar o bot no Google Chrome</p>
+
+<ul>
+  <p>Chromeddriver compatible with Google Chrome version</p>
+  <p>It's an executable that lets you use the bot on Google Chrome</p>
+</ul>
 
 <br/>
 
